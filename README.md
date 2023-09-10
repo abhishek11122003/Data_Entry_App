@@ -34,3 +34,4 @@ And can view the grand totals of different values for different policies.
 
 <img width="600" alt="image" src="https://github.com/abhishek11122003/Data_Entry_App/assets/84235903/54db754f-344f-44d1-af75-e82a66601a26">
 
+Note that this app stores data in json file (It will create json file on its own).
